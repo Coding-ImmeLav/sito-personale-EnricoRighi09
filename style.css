@@ -27,3 +27,13 @@
 .btn {
     width: auto;
 }
+
+.logo {
+    width: 50%;
+    border: 10;
+}
+
+footer {
+    background-color: cadetblue;
+    padding: 5vh;
+}
